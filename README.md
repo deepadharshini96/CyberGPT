@@ -46,14 +46,9 @@ npm start
 
 ## 📝 Usage
 
-1. Open http://localhost:3000
-2. Ask a security question
-3. Get AI-generated responses with code examples
+1. Ask a security question
+2. Get AI-generated responses with code examples
 
-## 🌐 Live Demo
-
-- Frontend: https://cybergpt.vercel.app
-- Backend: https://cybergpt-backend.onrender.com
 
 ## 📂 Project Structure
 CyberGPT/
